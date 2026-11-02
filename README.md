@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:1d4ed8,100:06b6d4&height=240&section=header&text=Fauss07&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Estudiante%20de%20programaci%C3%B3n%20%C2%B7%20Backend%20%C2%B7%20Juegos%20%C2%B7%20Ciberseguridad&descAlignY=62&descSize=18" alt="Fauss07" />
@@ -59,11 +60,22 @@
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Fauss07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas" />
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fauss07&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes" />
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=Fauss07&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
+
+</div>
+
+---
+
+## 🐍 Mi actividad en GitHub
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Fauss07/Fauss07/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 
 </div>
 
@@ -82,6 +94,8 @@
 <div align="center">
 
 > *"Primero que funcione, después que sea prolijo, después que sea rápido."*
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1d4ed8,100:0f172a&height=120&section=footer" alt="footer" />
 
